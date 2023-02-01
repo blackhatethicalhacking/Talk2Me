@@ -93,7 +93,7 @@ To run the tool on Kali Linux, Ubuntu, and MacOS, you need to have the following
 
 **Main Menu**
 
-<img width="958" alt="Screenshot 2023-02-01 at 7 13 41 PM" src="https://user-images.githubusercontent.com/13942386/216113965-4609c07b-7c8b-45f4-9575-4addef0623e8.png">
+<img width="959" alt="Screenshot 2023-02-02 at 1 25 48 AM" src="https://user-images.githubusercontent.com/13942386/216190509-40695524-2498-48e7-aa17-a8c5972f1500.png">
 
 
 # Compatibility: 
